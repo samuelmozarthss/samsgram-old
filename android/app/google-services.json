@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397226448645",
+    "project_id": "samsgram-ca5c2",
+    "storage_bucket": "samsgram-ca5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397226448645:android:1c53e39fee8cecf811896c",
+        "android_client_info": {
+          "package_name": "com.example.samsgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397226448645-5jg8ns4h42a13sisgj3asccoqt8ke3sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKN_wQi497LZ0f1wv3fTaIr76rRRMUo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397226448645-5jg8ns4h42a13sisgj3asccoqt8ke3sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
